@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207174cc-3ea9-4a0c-b5de-f79c0a9fb1dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    <list default="true" id="207174cc-3ea9-4a0c-b5de-f79c0a9fb1dc" name="Changes" comment="I followed a tutorial to setup the dataset for Iris">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DanielProano"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DanielProano/Iris_ML",
+    "accountId": "5bcbf606-1299-4e6b-ad0f-ab53392024e2"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747172980538</updated>
     </task>
+    <task id="LOCAL-00001" summary="I followed a tutorial to setup the dataset for Iris">
+      <option name="closed" value="true" />
+      <created>1747283461068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747283461068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I followed a tutorial to setup the dataset for Iris" />
+    <option name="LAST_COMMIT_MESSAGE" value="I followed a tutorial to setup the dataset for Iris" />
   </component>
 </project>
