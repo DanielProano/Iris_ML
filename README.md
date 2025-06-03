@@ -1,3 +1,5 @@
+![The_Irish_MachineLearning_Model](https://github.com/user-attachments/assets/106d19b3-361d-48fd-9c52-d81206969aec)
+
 # Iris Dataset ML Classifier
 
 This project implements a machine learning model to classify iris flowers using the classic [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). It’s a simple yet powerful introduction to the world of machine learning and classification.
